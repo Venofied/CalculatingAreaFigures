@@ -1,0 +1,15 @@
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\CalculatingAreaFiguresTests.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\CalculatingAreaFiguresTests.pdb
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\CalculatingAreaFigures.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\Microsoft.Analytics.UnitTest.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\CalculatingAreaFigures.pdb
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\obj\Debug\CalculatingAreaFiguresTests.csproj.AssemblyReference.cache
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\obj\Debug\CalculatingAreaFiguresTests.csproj.CoreCompileInputs.cache
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\obj\Debug\CalculatingAreaFiguresTests.csproj.CopyComplete
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\obj\Debug\CalculatingAreaFiguresTests.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFiguresTests\obj\Debug\CalculatingAreaFiguresTests.pdb

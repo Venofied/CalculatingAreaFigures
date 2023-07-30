@@ -1,0 +1,6 @@
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFigures\obj\Debug\CalculatingAreaFigures.csproj.AssemblyReference.cache
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFigures\obj\Debug\CalculatingAreaFigures.csproj.CoreCompileInputs.cache
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFigures\bin\Debug\CalculatingAreaFigures.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFigures\bin\Debug\CalculatingAreaFigures.pdb
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFigures\obj\Debug\CalculatingAreaFigures.dll
+D:\Res\MindBox\CalculatingAreaFigures\CalculatingAreaFigures\obj\Debug\CalculatingAreaFigures.pdb
